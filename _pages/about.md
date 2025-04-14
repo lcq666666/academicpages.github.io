@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-  你好！我叫李驰强。
-  本科西安邮电大学通信与信息工程学院人工智能专业。
+**  你好！我叫李驰强。
+  本科西安邮电大学通信与信息工程学院人工智能专业。**
 
 A data-driven personal website
 ======
